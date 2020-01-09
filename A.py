@@ -1,4 +1,4 @@
-n=25
+n=12
 for i in range(n):
 	for j in range(2*n):
 		if i==int(n/2):
